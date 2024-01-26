@@ -1,0 +1,31 @@
+﻿  Main.cpp
+F:\c++\Project\BDoor\BDoor\include\other\tools.h(21,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\other\tools.h(40,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\BDoorControl.h(29,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\BDoorControl.h(47,15): warning C4834: 放弃具有 [[nodiscard]] 属性的函数的返回值
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\BDoorControl.h(54,26): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\BDoorControl.h(131,33): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\BDoorControl.h(257,34): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“Main.cpp”)
+  
+F:\c++\Project\BDoor\BDoor\include\BDoorControl.h(362,27): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  (编译源文件“Main.cpp”)
+  
+  正在生成代码
+  2 of 1681 functions ( 0.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    2 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  BDoorControlDOS.vcxproj -> F:\c++\Project\BDoor\BDoorControl\BDoorControlDOS\x64\Release\BDoorControlDOS.exe
